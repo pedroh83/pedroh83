@@ -13,8 +13,8 @@ Hoje uno os dois mundos: uso **Python e IA generativa** para automatizar process
 ## 🚀 Projetos
 
 ### [Agente de Recolocação Profissional](https://github.com/pedroh83/agente-recolocacao)
-Dois agentes em Python que automatizam a minha busca de emprego. Um lê os alertas de vagas do LinkedIn todos os dias às 9h e entrega uma planilha pontuada. O outro gera, com o Google Gemini, um currículo em Word adaptado para cada vaga e confere o resultado contra invenções da IA.
-`Python` `IMAP` `Gemini API` `Excel` `Word` `Agendador do Windows`
+Dois agentes em Python que automatizam a minha busca de emprego. Um lê os alertas de vagas do LinkedIn todos os dias às 9h e entrega uma planilha pontuada. O outro gera, com o Google Gemini, um currículo em Word adaptado para cada vaga e confere o resultado contra invenções da IA. Os dois alimentam um controle de candidaturas com indicadores de retorno (PDCA), e o código tem testes automáticos.
+`Python` `IMAP` `Gemini API` `Excel` `Word` `pytest` `GitHub Actions`
 
 ### [Prompt Master: Engenheiro de Prompts IA](https://github.com/pedroh83/prompt-master)
 Método para avaliar (nota de 0 a 10) e reestruturar prompts, documentado como Instrução de Trabalho no padrão de Qualidade.
