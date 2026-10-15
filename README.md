@@ -31,3 +31,7 @@ Procedimentos operacionais para configurar ferramentas de IA no Windows, incluin
 **Processos e Qualidade:** ISO 9001 · ISO 14001 · ISO 45001 · auditoria interna · mapeamento de processos · BPMN · PDCA · POP
 **Requisitos e Produto:** levantamento de requisitos · Scrum · histórias de usuário · testes manuais · homologação
 **Tecnologia e IA:** Python · automação · APIs de IA generativa (Gemini) · engenharia de prompts · MCP
+
+---
+
+📫 Vamos conversar: [LinkedIn](https://www.linkedin.com/in/pedro-henrique-simas/)
